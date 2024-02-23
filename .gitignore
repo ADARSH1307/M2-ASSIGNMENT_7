@@ -1,0 +1,11 @@
+# Ignore temporary files
+*.tmp
+*~
+# Ignore build artifacts
+build/
+dist/
+# Ignore specific files
+README-draft.md
+
+# Ignore all files starting with "vendor_"
+vendor_*
